@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #Author: Karl Franz
 #License GNU GPL v3
